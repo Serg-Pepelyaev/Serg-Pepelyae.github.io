@@ -21,3 +21,25 @@
 Если политика изменится, мы обновим дату на этой странице и, при существенных изменениях, сообщим в Приложении.
 9. Связь с нами
 По вопросам о данных и по запросам на удаление пишите на serg.pepel30@gmail.com.
+Pivotly — Privacy Policy
+App: "Pivotly" (the "App") Developer: Serg-Pepelyaev Contact: serg.pepel30@gmail.com Last updated: November 9, 2026
+1. What the App does
+The App builds pivot tables from .xlsx and .csv files that you choose yourself. Your files are processed on your device.
+2. Your files and projects
+Your files, table data, settings and projects are stored only in your device's memory. We do not receive them, send them to servers, or share them with an ad network. Deleting the App or clearing its data removes your projects. A project file that you save yourself stays wherever you send it.
+3. Advertising
+In the future, the App may show ads provided by a third-party ad network (if one is added, it will be named here). To serve ads, the network may collect and process:
+• the device advertising ID; • the IP address and the approximate location derived from it; • device and system information (model, Android version, language, carrier); • ad interaction data (impressions, taps) and App performance data (crashes, diagnostics).
+The network uses this data to show and measure ads, prevent fraud and, if you have allowed it, to personalize ads. The contents of your files and tables are not shared with the ad network.
+4. Your choices
+• If you are in the European Economic Area, the United Kingdom or Switzerland, a consent prompt about the use of data for ads will be shown at first launch. You can change your choice in the App settings. • On Android you can turn off ad personalization or reset your advertising ID: Settings → Google → Ads. • Turning off personalization does not remove ads, but they become less relevant to you.
+5. Children
+The App is not directed to children under 12 and we do not knowingly collect children's data. If you know that a child has provided data, write to us and we will take action.
+6. Storage and security
+We do not store your data ourselves. The ad network stores its own data under its own rules. Data on your device is protected by the Android system itself.
+7. Sharing with third parties
+We do not sell data. Only the ad network named above receives data for advertising.
+8. Changes
+If this policy changes, we will update the date on this page and, for material changes, notify you in the App.
+9. Contact us
+For questions about data and for deletion requests, write to serg.pepel30@gmail.com.
